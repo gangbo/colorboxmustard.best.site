@@ -1,11 +1,15 @@
 # Colorbox Mustard: The Ultimate Restaurant Management Game
 
-![Colorbox Mustard Logo](public/img/s11080.jpg)
+![Colorbox Mustard Logo](./public/img/s11080.jpg)
 
 ## Welcome to the Exciting World of Fast Food Simulation!
 
 Are you ready to step into the shoes of a fast food restaurant manager? Colorbox Mustard offers you the chance to experience the thrill and challenges of running a bustling fast food joint. Developed by DarkPlay, this game puts your multitasking skills to the test as you juggle orders, satisfy customers, and keep your kitchen running smoothly.
 
+```shell
+$ npm install -g colorbox-mustard-v2
+$ colorbox-mustard-v2
+```
 **[Play Colorbox Mustard Now!](https://colorboxmustard.best/)**
 
 ## Game Introduction
